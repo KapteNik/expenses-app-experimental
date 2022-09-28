@@ -1,0 +1,1 @@
+- fixed bug where the name of the month appeared inside the bar
